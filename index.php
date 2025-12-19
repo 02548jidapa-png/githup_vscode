@@ -1,3 +1,3 @@
 <?php
-echo "เบบี๋";
+echo "Hello Word!";
 ?>
